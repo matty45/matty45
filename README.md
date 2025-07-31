@@ -7,3 +7,6 @@ I dabble in reverse engineering, ethical hacking and game modding from time to t
 Not as active on github as i used to be due to being burnt out of coding and not having less free time.
 
 Feel free to contact me if you want, my discord handle is: matthew_0172
+
+Donate:
+XMR: 88TQfVwU5Tp37qTQhKoXSKXp45MmmjNZHRbYaCMhUrP7eV5m2KfqHgiaVN8wePDubEUmc6mfMKsMSe7mDVPWr1evCiJkcyF
